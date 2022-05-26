@@ -2,7 +2,7 @@
 
 ### Hello 👋
 
-🇨🇳 Antwerp, Belgium・🕹Web developer
+:belgium: Antwerp, Belgium・:computer: Web developer
 
 https://nxt-solutions.com
 
