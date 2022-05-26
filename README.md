@@ -6,6 +6,8 @@
 
 https://nxt-solutions.com
 
-Get me a coffee，[:heart:](https://www.buymeacoffee.com/NoahNxT)
+[☕ Get me a coffee!](https://www.buymeacoffee.com/NoahNxT)
+
+[:link: Links](https://link.shitcode.dev/)
 
 ![](./profile-3d-contrib/profile-south-season-animate.svg)
