@@ -2,7 +2,7 @@
 
 ### Hello 👋
 
-:belgium: Antwerp, Belgium・:computer: Web developer
+:belgium: Westerlo, Belgium・:computer: Web developer
 
 https://nxt-solutions.com
 
